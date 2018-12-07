@@ -28,7 +28,7 @@
   "devDependencies": {},
   "dependencies": {
     "archiver": "^2.1.0",
-    "aws-sdk": "^2.138.0",
+    "aws-sdk": "^2.178.0",
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-polyfill": "^6.26.0",
@@ -39,8 +39,8 @@
     "execa": "^0.8.0",
     "find": "^0.2.7",
     "glob": "^7.1.2",
-    "lodash": "^4.17.4",
-    "node-pre-gyp": "^0.6.38",
+    "lodash": "^4.17.5",
+    "node-pre-gyp": "^0.9.0",
     "promise-queue": "^2.2.3",
     "uuid": "^3.1.0",
     "webpack": "^3.8.1"
